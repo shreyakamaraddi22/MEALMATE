@@ -33,4 +33,4 @@ MealMate is a web-based food ordering application developed using Django. It all
 ### Payment Gateway
 - Razorpay
 
-## 📂 Project Structure
+
