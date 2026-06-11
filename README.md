@@ -1,4 +1,4 @@
-# MEALMATE
+# MealMate
 Food Delivery App
 # 🍽️ MealMate - Online Food Ordering System
 
